@@ -2,6 +2,9 @@
 
 Aprendendo: Laravel | PHP | Java | Git | MySql  
 intermediário : Javascript | React JS | HTML | CSS | C++  🚀
+
+-  Cursando Analise e desenvolvimento de sistemas pela PUC GO
+-  atualmente estagiando na SSP GO 
 <!--
 **GustavoL7/GustavoL7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +22,6 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoL7&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=GustavoL7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!-- <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=GustavoL7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+-->
 </div>
