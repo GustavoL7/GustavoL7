@@ -1,5 +1,7 @@
 ## Olá, meu nome e Gustavo Lucas
 
+Aprendendo: Laravel | PHP | Java | Git | MySql  
+intermediário : Javascript | React JS | HTML | CSS | C++  🚀
 <!--
 **GustavoL7/GustavoL7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
