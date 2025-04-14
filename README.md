@@ -4,7 +4,7 @@ Aprendendo: Laravel | PHP | Java | Git | MySql
 intermediário : Javascript | React JS | HTML | CSS | C++  🚀
 
 -  Cursando Analise e desenvolvimento de sistemas pela PUC GO
--  atualmente estagiando na SSP GO 
+-  atualmente estagiando na Policia Civil do estado de Goiás 
 <!--
 **GustavoL7/GustavoL7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
