@@ -1,27 +1,45 @@
-## Olá, meu nome e Gustavo Lucas
+# 👋 Olá, eu sou o Gustavo Ayres
 
-Aprendendo: Laravel | PHP | Java | Git | MySql  
-intermediário : Javascript | React JS | HTML | CSS | C++  🚀
+🎯 **Desenvolvedor Front-end**  
+💼 Estagiário na **Polícia Civil de Goiás**  
+🎓 Análise e Desenvolvimento de Sistemas – **PUC-GO**
 
--  Cursando Analise e desenvolvimento de sistemas pela PUC GO
--  atualmente estagiando na Policia Civil do estado de Goiás 
-<!--
-**GustavoL7/GustavoL7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em **Front-end**, com experiência prática em projetos web usando **React**. Busco minha primeira oportunidade como **Dev Júnior**, onde eu possa evoluir tecnicamente e gerar impacto real.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoL7&layout=compact&langs_count=7&theme=dracula"/>
-<!-- <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=GustavoL7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
--->
-</div>
+## 🚀 Tecnologias
+**Principais**
+- React
+- JavaScript / TypeScript
+- HTML5 | CSS3
+- Tailwind CSS
+- Git & GitHub
+
+**Estudando atualmente**
+- Testes (Jest / Cypress)
+- Boas práticas de arquitetura Front-end
+- Integração com APIs REST
+
+---
+
+## 📌 Projetos em Destaque
+🔹 **Website / Portfólio**  
+Aplicação desenvolvida com React para apresentar meus projetos e habilidades.  
+👉 [Repositório](https://github.com/GustavoL7/website)  
+👉 Deploy: *(adicione aqui quando tiver)*
+
+🔹 **Calculadora em Java**  
+Projeto acadêmico focado em lógica, organização e boas práticas em Java.  
+👉 [Repositório](https://github.com/GustavoL7/calculadora-java)
+
+---
+
+## 📈 Objetivo Profissional
+Atuar como **Desenvolvedor Júnior**, principalmente em Front-end, contribuindo com código limpo, aprendendo com o time e evoluindo constantemente como profissional.
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: *(cole o link aqui)*
+- 📧 Email: *(opcional)*
