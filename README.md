@@ -1,20 +1,24 @@
-# 👋 Olá, eu sou o Gustavo Ayres
+# 👋 Olá, eu sou o Gustavo Lucas
 
-🎯 **Desenvolvedor Front-end**  
+🎯 **Desenvolvedor Full stack Junior**  
 💼 Estagiário na **Polícia Civil de Goiás**  
 🎓 Análise e Desenvolvimento de Sistemas – **PUC-GO**
 
-Sou desenvolvedor focado em **Front-end**, com experiência prática em projetos web usando **React**. Busco minha primeira oportunidade como **Dev Júnior**, onde eu possa evoluir tecnicamente e gerar impacto real.
+Sou desenvolvedor **Full stack**, com experiência prática em projetos web usando **React**. Busco minha primeira oportunidade como **Dev Júnior**, onde eu possa evoluir tecnicamente e gerar impacto real.
 
 ---
 
 ## 🚀 Tecnologias
 **Principais**
+- PHP (laravel)
 - React
+- Next.js
 - JavaScript / TypeScript
 - HTML5 | CSS3
 - Tailwind CSS
 - Git & GitHub
+- PostGresql
+- Vercel (deploy)
 
 **Estudando atualmente**
 - Testes (Jest / Cypress)
@@ -24,22 +28,23 @@ Sou desenvolvedor focado em **Front-end**, com experiência prática em projetos
 ---
 
 ## 📌 Projetos em Destaque
-🔹 **Website / Portfólio**  
+🔹 **Landing Page – RG Company**  
+Landing page responsiva desenvolvida com foco em conversão e layout moderno.  
+Tecnologias: React, CSS, deploy na Vercel.
+👉 Deploy: https://rgcompanythree.vercel.app/
+
+# **Website / Portfólio**  #
 Aplicação desenvolvida com React para apresentar meus projetos e habilidades.  
 👉 [Repositório](https://github.com/GustavoL7/website)  
-👉 Deploy: *(adicione aqui quando tiver)*
-
-🔹 **Calculadora em Java**  
-Projeto acadêmico focado em lógica, organização e boas práticas em Java.  
-👉 [Repositório](https://github.com/GustavoL7/calculadora-java)
+👉 Deploy: *(adicione aqui quando tiver)* 
 
 ---
 
 ## 📈 Objetivo Profissional
-Atuar como **Desenvolvedor Júnior**, principalmente em Front-end, contribuindo com código limpo, aprendendo com o time e evoluindo constantemente como profissional.
+Atuar como **Desenvolvedor Full stack Júnior**, contribuindo com código limpo, aprendendo com o time e evoluindo constantemente como profissional.
 
 ---
 
 ## 📫 Contato
-- 💼 LinkedIn: *(cole o link aqui)*
-- 📧 Email: *(opcional)*
+- 💼 LinkedIn: *www.linkedin.com/in/gustavolucasayres*
+- 📧 Email: *gustavolucas113@gmail.com*
