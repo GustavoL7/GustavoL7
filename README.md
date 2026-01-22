@@ -31,6 +31,7 @@ Sou desenvolvedor **Full stack**, com experiência prática em projetos web usan
 🔹 **Landing Page – RG Company**  
 Landing page responsiva desenvolvida com foco em conversão e layout moderno.  
 Tecnologias: React, CSS, deploy na Vercel.
+
 👉 Deploy: https://rgcompanythree.vercel.app/
 
 # **Website / Portfólio**  #
